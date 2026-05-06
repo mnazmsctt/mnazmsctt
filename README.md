@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/image?text=nazmifirdaus&height=260&color=0A0A0A&fontColor=FF00FF&type=rect&stroke=FF00FF&strokeWidth=4&customColorPattern=0,FF00FF,00FFFF,FFFF00" alt="Banner" />
+<img src="https://cdn.jsdelivr.net/gh/alohe/avatars/png/3d_4.png" alt="Banner" />
 
 </div>
 
@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─%20─-FF00FF?style=flat-square" />
+  <img src="https://cdn.jsdelivr.net/gh/alohe/avatars/png/notion_1.png" />
 </div>
 
 <br>
