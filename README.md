@@ -54,17 +54,17 @@ Kode harus **keras**, **cepat**, dan **berkarakter**.
 
 ## 🔥 FEATURED PROJECTS
 
-- **[Project Name](https://github.com/nazmifirdaus/project-name)** — Deskripsi singkat project
-- **[Project Name](https://github.com/nazmifirdaus/project-name)** — Deskripsi singkat project
-- **[Project Name](https://github.com/nazmifirdaus/project-name)** — Deskripsi singkat project
+- **[Perpustakaan](https://github.com/mnazmsctt/perpustakaan)** — Website Dinamis Admin Perpustakaan
+- **[JualBeliKendaraan](https://github.com/nazmifirdaus/project-name)** — Website Jual Beli Kendaraan
+- **[Dapps](https://github.com/mnazmsctt/dapps)** — Dapps
 
 <br>
 
 ## 📊 STATS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazmifirdaus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnazmsctt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmifirdaus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=FF00FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnazmsctt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=FF00FF)
 
 <br>
 
