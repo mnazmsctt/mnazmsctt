@@ -22,7 +22,7 @@
 
 ## 👊 ABOUT ME
 
-Saya seorang **Full Stack Developer** yang suka membangun aplikasi dengan desain **neobrutalism** yang kuat dan tanpa kompromi. 
+Saya seorang **Full Stack Developer** yang suka membangun aplikasi dengan desain yang saya suka seperti **neobrutalism** apa lagi dia hehehe dan yang penting gue suka desain yang kuat dan tanpa kompromi. 
 
 Kode harus **keras**, **cepat**, dan **berkarakter**.
 
@@ -58,15 +58,7 @@ Kode harus **keras**, **cepat**, dan **berkarakter**.
 - **[JualBeliKendaraan](https://github.com/nazmifirdaus/project-name)** — Website Jual Beli Kendaraan
 - **[Dapps](https://github.com/mnazmsctt/dapps)** — Dapps
 
-<br>
 
-## 📊 STATS
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnazmsctt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnazmsctt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=FF00FF)
-
-<br>
 
 ## 📡 CONNECT WITH ME
 
@@ -74,7 +66,7 @@ Kode harus **keras**, **cepat**, dan **berkarakter**.
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nazmifirdaus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmifirdaus)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nazmifirdaus)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mnazmsctt)
 
 </div>
 
