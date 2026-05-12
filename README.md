@@ -81,7 +81,7 @@ Status      : Building, breaking, rebuilding
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mnazmsctt/mnazmsctt/output/pacman-contribution-graph.svg" />
+<img src="https://raw.githubusercontent.com/mnazmsctt/mnazmsctt/output/pacman-contribution-graph-dark.svg" />
 
 </div>
 
