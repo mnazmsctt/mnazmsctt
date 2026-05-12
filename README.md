@@ -77,15 +77,6 @@ Status      : Building, breaking, rebuilding
 
 ---
 
-# 🟡 Pacman Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mnazmsctt/mnazmsctt/output/pacman-contribution-graph-dark.svg" />
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
