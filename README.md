@@ -47,25 +47,8 @@ Status      : Building, breaking, rebuilding
 
 </div>
 
----
 
-# 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mnazmsctt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnazmsctt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mnazmsctt&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
@@ -126,7 +109,7 @@ karena tidur cuma side quest.
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/mnazmsctt">
+<a href="https://instagram.com/nazmifirdaus10">
   <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
